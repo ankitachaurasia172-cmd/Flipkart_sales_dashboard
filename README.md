@@ -58,8 +58,8 @@ To transform raw data into a structured, interactive dashboard for performance m
 Developed a user-friendly dashboard
 Enabled efficient data exploration
 Delivered meaningful business insights
-📸 Dashboard Preview
-<p align="center"> <img src="dashboard.png" width="800"/> </p>
+-- Dashboard Preview
+<p align="center"> <img src="Screenshot 2026-04-02 191658.png" width="800"/> </p>
 
   Topics
 data-analysis excel-dashboard sales-analytics business-intelligence data-visualization
