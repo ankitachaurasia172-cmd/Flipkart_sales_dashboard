@@ -60,7 +60,7 @@ Enabled efficient data exploration
 Delivered meaningful business insights
 -- Dashboard Preview
 <p align="center">
-  <img src="dashboard.png" width="800"/>
+  <img src="Dashboard.png" width="800"/>
 </p>
 
   Topics
